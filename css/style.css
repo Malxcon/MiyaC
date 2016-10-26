@@ -1,1 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
 /* YOUR CUSTOM STYLES */
+#m_baner1 {
+	background: url(../img/baner.jpg);
+	height: 500px;
+}
+
+
+.m_ti1 {
+	font-family: 'Lobster', cursive;
+	padding-top: 120px;
+	font-size: 90px;
+}
